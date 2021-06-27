@@ -6,7 +6,7 @@ namespace Course {
         static void Main(string[] args) {
             /*var x = 10;
             var y = 10.3;
-            var z = "Maria";*/
+            var z = "Mariana";*/
             /*
             string day;
             int x = int.Parse(Console.ReadLine());
